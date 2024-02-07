@@ -11,6 +11,8 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Kasun Mahendra </span>
             from <span className="purple"> Bibile,Sri Lanka</span>
             <br />I am a junior pursuing Bsc in Computer Science and Chemistry in Eastern University Of Sri Lanka.
+              As well as currently working for the Commercial Bank's Production Issues Responding Team for the Software 
+              Development Related issues and been Providing Immediate Actions to Mitigate the Production Software Issues
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
