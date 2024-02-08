@@ -12,6 +12,7 @@ import {
   DiHtml5,
   DiPhp,
   DiGithub,
+  DiDocker,
 
 } from "react-icons/di";
 import {
@@ -31,7 +32,7 @@ function Techstack() {
         <DiJavascript1 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
+        <DiDocker />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
